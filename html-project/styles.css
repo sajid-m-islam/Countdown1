@@ -1,0 +1,20 @@
+h1 {
+    font-style: italic;
+    text-align: center;
+}
+p {
+    background-color: cyan;
+}
+ul {
+    font-size: 18px;
+    border: 3px solid green;
+}
+.header {
+    font-size: 36px;
+}
+#main-paragraph {
+    font-size: 18px;
+}
+.img {
+    border: 4px dotted black;
+}
